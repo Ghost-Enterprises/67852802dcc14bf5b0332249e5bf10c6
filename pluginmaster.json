@@ -1,15 +1,19 @@
-{
-  "Author": "Ghost",
-  "Name": "Ghost",
-  "Punchline": "One plugin. Pick a mode, then Start.",
-  "Description": "Assist clicks quest dialogs by type and fires job priority trees when you have a target. Later modes share the same services.",
-  "InternalName": "Ghost",
-  "AssemblyVersion": "0.1.0.0",
-  "ApplicableVersion": "any",
-  "DalamudApiLevel": 13,
-  "IsHide": false,
-  "IsTestingExclusive": false,
-  "DownloadLinkInstall": "https://raw.githubusercontent.com/Ghost-Enterprises/67852802dcc14bf5b0332249e5bf10c6/main/plugins/Ghost/latest.zip",
-  "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ghost-Enterprises/67852802dcc14bf5b0332249e5bf10c6/main/plugins/Ghost/latest.zip",
-  "LastUpdate": "1789569828"
-}
+[
+  {
+    "Author": "Ghost",
+    "Name": "Ghost",
+    "Punchline": "One plugin. Pick a mode, then Start.",
+    "Description": "Assist clicks quest dialogs by type and fires job priority trees when you have a target. Later modes share the same services.",
+    "InternalName": "Ghost",
+    "AssemblyVersion": "0.1.0.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 13,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Ghost-Enterprises/67852802dcc14bf5b0332249e5bf10c6/main/plugins/Ghost/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ghost-Enterprises/67852802dcc14bf5b0332249e5bf10c6/main/plugins/Ghost/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/Ghost-Enterprises/67852802dcc14bf5b0332249e5bf10c6/main/plugins/Ghost/latest.zip",
+    "LastUpdate": "1789569828"
+  }
+]
