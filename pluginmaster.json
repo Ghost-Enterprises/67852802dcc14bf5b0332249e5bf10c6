@@ -5,15 +5,15 @@
     "Punchline": "One plugin. Pick a mode, then Start.",
     "Description": "Assist clicks quest dialogs by type and fires job priority trees when you have a target. Later modes share the same services.",
     "InternalName": "Ghost",
-    "AssemblyVersion": "0.2.0.68",
+    "AssemblyVersion": "0.3.0.715",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "DownloadCount": 0,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/Ghost-Enterprises/67852802dcc14bf5b0332249e5bf10c6/releases/download/0.2.0.68/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Ghost-Enterprises/67852802dcc14bf5b0332249e5bf10c6/releases/download/0.2.0.68/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Ghost-Enterprises/67852802dcc14bf5b0332249e5bf10c6/releases/download/0.2.0.68/latest.zip",
-    "LastUpdate": 1789586282
+    "DownloadLinkInstall": "https://github.com/Ghost-Enterprises/67852802dcc14bf5b0332249e5bf10c6/releases/download/0.3.0.715/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Ghost-Enterprises/67852802dcc14bf5b0332249e5bf10c6/releases/download/0.3.0.715/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Ghost-Enterprises/67852802dcc14bf5b0332249e5bf10c6/releases/download/0.3.0.715/latest.zip",
+    "LastUpdate": 1789758328
   }
 ]
